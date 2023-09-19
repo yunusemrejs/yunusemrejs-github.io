@@ -16,5 +16,6 @@
 
 .sidebar-wrapper .profile {
 	object-fit: cover;
-	aspect-ratio: 1;
+	height: 220px;
+	width: 220px;
 }
